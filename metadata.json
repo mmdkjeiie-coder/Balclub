@@ -1,0 +1,6 @@
+{
+  "name": "Bal Club Management",
+  "description": "A comprehensive Android application for managing Bal Club activities, minutes, events, and members.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
